@@ -1,8 +1,8 @@
 ---
 layout: page
-title: TechMobie Privacy Policy
-description: TechMobie Privacy Policy
-permalink: /techmobie/privacy-policy/
+title: TelanganamNews Privacy Policy
+description: TelanganamNews Privacy Policy
+permalink: /telanganam-news/privacy-policy/
 ---
 
 <style>
@@ -19,13 +19,11 @@ permalink: /techmobie/privacy-policy/
 
 ## Privacy Policy
 
-<p id="info">DevsKrate built the TechMobie app as a Free app. This SERVICE is provided by DevsKrate at no cost and is intended for use as is.</p>
-
 <p id="info">This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
 
 <p id="info">If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
 
-<p id="info">The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at TechMobie unless otherwise defined in this Privacy Policy.</p>
+<p id="info">The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at TelanganamNews unless otherwise defined in this Privacy Policy.</p>
 
 ### Information Collection and Use
 
